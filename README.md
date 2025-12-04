@@ -1,6 +1,11 @@
 [![Profile views](https://komarev.com/ghpvc/?username=Mathewrean&color=blue)](https://github.com/Mathewrean)
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2981082" style='border:none;'></iframe>
+<p align="left">
+  <a href="https://tryhackme.com/p/Mathewrean">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Mathewrean.png" alt="TryHackMe">
+  </a>
+</p>
+
 
 <img align="right" alt="avatar" width="160" src="https://github.com/Mathewrean.png" />
 
