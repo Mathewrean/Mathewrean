@@ -19,7 +19,7 @@ Currently building skills in:
 - Networking & Linux Security
 - SQL / MariaDB
 - SIEM (Splunk)
-- Nmap & AppArmor Analysis
+- Django -> My most preferred framework for web development
 
 **Open to collaboration in:**
 Cybersecurity, Digital Forensics, Web Security Engineering, and Full-Stack Development.
