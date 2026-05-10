@@ -32,7 +32,7 @@ I'm a cybersecurity engineering student and technical project lead focused on of
 | 🎓 **[JOOUST Postgrad Tracker](#)** | Postgraduate submissions portal for the Dept. of Pure & Applied Mathematics, JOOUST. Role-based access, submission pipelines, and faculty dashboards. | Django · PostgreSQL · Tailwind CSS |
 | 🏫 **[KUPPET Siaya Member Portal](#)** | Membership management system for KUPPET Siaya Branch — member registration, dues tracking, and branch communications. | Django · PostgreSQL · Tailwind CSS v3 |
 | 🌐 **[Enactus JOOUST Website](#)** | Static organisation website with event countdowns, Chart.js impact dashboards, and M-Pesa donation integration. Content managed via JSON. | HTML · CSS · JS · Chart.js |
-| 🔐 **[Cybersecurity Portfolio](https://mathewrean.github.io/my_portfolio)** | Personal portfolio showcasing CTF writeups, pentest labs, and security projects. Dynamic content via GitHub Contents API. | HTML · CSS · JS · GitHub Pages |
+| 🔐 **[Cybersecurity Portfolio](https://mathewrean.github.io/portfolio)** | Personal portfolio showcasing CTF writeups, pentest labs, and security projects. Dynamic content via GitHub Contents API. | HTML · CSS · JS · GitHub Pages |
 
 > *Repositories linked once published. Contact me for previews or documentation.*
 
