@@ -16,7 +16,7 @@
 
 ##  About Me
 
-Cybersecurity engineering student and technical project lead focused on offensive security, secure system development, and real-world infrastructure projects. Competes on **Hack The Box** and **CTFZone**, builds Django-powered platforms, and documents systems for production-grade deployments.
+Cybersecurity engineering student and technical project lead focused on offensive security, secure system development, and real-world infrastructure projects. Competes on **Hack The Box** and **CTFZone**.
 
 **Currently sharpening:**
 `Penetration Testing` &nbsp;`Web Exploitation`&nbsp; `Digital Forensics`&nbsp; `Cryptography`&nbsp; `Blockchain Security`&nbsp; `Bash & Python Scripting`&nbsp; `SIEM (Splunk)`&nbsp; `Network Security`
@@ -29,11 +29,11 @@ Cybersecurity engineering student and technical project lead focused on offensiv
 
 | Project | Description | Stack |
 |---|---|---|
-|  **[FloodGuard](https://github.com/Mathewrean/floodguard)** | Real-time, AI-powered flood monitoring & early-warning platform. Six weather/satellite API sources, four-band risk classifier, WebSocket alerts. Deployed on Railway. | Django · PostgreSQL/PostGIS · Redis · Celery · Channels |
-|  **[JOOUST Postgrad Tracker](https://github.com/Mathewrean/PostgraduateTracker)** | Stage-gated postgraduate submissions portal for the Dept. of Pure & Applied Mathematics, JOOUST. RBAC, five-phase roadmap. | Django · PostgreSQL · Tailwind CSS |
-|  **[KUPPET Siaya Member Portal](https://github.com/Mathewrean/kuppet_siaya)** | Membership management system for KUPPET Siaya Branch — registration, dues tracking, communications. | Django · PostgreSQL · Tailwind CSS v3 |
+|  **[FloodGuard](https://github.com/Mathewrean/floodguard)** | Real-time, AI-powered flood monitoring & early-warning platform. Six weather/satellite API sources, four-band risk classifier, WebSocket streaming. | Python · Django · TensorFlow |
+|  **[JOOUST Postgrad Tracker](https://github.com/Mathewrean/PostgraduateTracker)** | Stage-gated postgraduate submissions portal for the Dept. of Pure & Applied Mathematics, JOOUST. RBAC, five-phase workflow. | Django · PostgreSQL · Bootstrap |
+|  **[KUPPET Siaya Member Portal](https://github.com/Mathewrean/kuppet_siaya)** | Membership management system for KUPPET Siaya Branch — registration, dues tracking, communications. | Django · PostgreSQL · Bootstrap |
 |  **[Enactus JOOUST Website](https://github.com/Mathewrean/enactus_web)** | Organisation site with event countdowns, Chart.js impact dashboards, M-Pesa donation integration. | HTML · CSS · JS · Chart.js |
-|  **[Cybersecurity Portfolio](https://github.com/Mathewrean/portfolio)** | CTF writeups, pentest labs, and security project showcase. Dynamic content via GitHub Contents API. | HTML · CSS · JS · GitHub Pages |
+|  **[Cybersecurity Portfolio](https://github.com/Mathewrean/portfolio)** | CTF writeups, pentest labs, and security project showcase. Dynamic content via GitHub Contents API. | HTML · CSS · JS · GitHub API |
 |  **[Rechiro](https://github.com/Mathewrean/Rechiro)** | Technical system documentation, development logs, and source asset files. | Markdown · Docs |
 
 ---
@@ -48,17 +48,19 @@ Cybersecurity engineering student and technical project lead focused on offensiv
 
 ##  GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mathewrean&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mathewrean Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathewrean&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mathewrean&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=Mathewrean&theme=tokyonight&no-frame=true&column=4" alt="Trophies" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathewrean&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Mathewrean)
 
-> Note: streak/stats cards cache for a few hours; a fresh commit may not show instantly.
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathewrean&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Mathewrean)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mathewrean&theme=tokyonight&hide_border=true)](https://github.com/Mathewrean)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Mathewrean&theme=tokyonight&no-frame=true&column=4)](https://github.com/Mathewrean)
+
+</div>
+
+> **Note:** Stats cards are cached by external services. A fresh commit may take a few hours to reflect. If cards don't load, check your internet connection or try refreshing after clearing cache.
 
 ---
 
