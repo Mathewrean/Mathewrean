@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mathewrean&color=0d1117&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com" alt="Profile views" />
 </p>
 
-<img align="right" alt="avatar" width="150" src="https://github.com/Mathewrean.png" style="border-radius: 50%;" />
+<img align="right" alt="avatar" width="140" src="https://github.com" style="border-radius: 50%; border: 2px solid #565f89;" />
 
 # Mathewrean
 
@@ -12,9 +12,17 @@
 
 📍 Kenya &nbsp;|&nbsp; 🎓 JOOUST — Computer Security & Digital Forensics &nbsp;|&nbsp; 🚀 CTFZone Campus Ambassador
 
+# Hi there! 👋
+
+Currently Learning: 
+[![Laravel](https://shields.io)](https://laravel.com)
+[![Next.js](https://shields.io)](https://nextjs.org)
+
+*Building powerful backends with Laravel and dynamic frontends with Next.js.*
+
 ---
 
-##  About Me
+## 🧑‍💻 About Me
 
 Cybersecurity & Digital Forensics student at JOOUST focused on digital security operations, vulnerability hunting, and defensive security playbooks. Active CTF competitor and mentor, treating each challenge as a real-world learning opportunity. Passionate about bridging technical security expertise with leadership through student representation.
 
@@ -25,20 +33,7 @@ Cybersecurity & Digital Forensics student at JOOUST focused on digital security 
 
 ---
 
-##  Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[FloodGuard](https://github.com/Mathewrean/floodguard)** | AI-powered flood detection & early-warning system with real-time alerts, Raspberry Pi integration, weather APIs, and Groq AI analysis. | Groq AI · Openweather API · Python · IoT |
-| **[Rechiro](https://github.com/Mathewrean/Rechiro)** | Fisher-to-buyer marketplace platform. Showcased at Huawei Siaya Hackathon & Enactus National Expo. Enables fishermen to coordinate with verified buyers. | Django · M-Pesa API · PostgreSQL · Bootstrap |
-| **[KUPPET Siaya Portal](https://github.com/Mathewrean/kuppet_siaya)** | Membership management & communications portal for KUPPET Siaya Branch with dues tracking and member coordination. | Django · PostgreSQL · HTML/CSS/JS |
-| **[JOOUST Postgrad Tracker](https://github.com/Mathewrean/PostgraduateTracker)** | Stage-gated postgraduate submissions system with RBAC, five-phase workflow, and audit trails. | Django · PostgreSQL · Bootstrap |
-| **[Enactus JOOUST Website](https://github.com/Mathewrean/enactus_web)** | Non-profit org site with event countdowns, impact dashboards (Chart.js), and M-Pesa integration. | HTML/CSS/JS · Chart.js · M-Pesa API |
-| **[Cybersecurity Portfolio](https://github.com/Mathewrean/portfolio)** | Dynamic portfolio with CTF writeups, pentest labs, challenge modals, and markdown rendering. | HTML/CSS/JS · GitHub API · Marked.js |
-
----
-
-##  Certifications & Recognition
+## 🏆 Certifications & Recognition
 
 **Security & Compliance**
 - 🏆 Cisco Ethical Hacker (Cyber Shujaa Program & Cisco Networking Academy)
@@ -49,31 +44,67 @@ Cybersecurity & Digital Forensics student at JOOUST focused on digital security 
 
 ---
 
-##  CTF & Security Lab Activity
+## ⚡ Featured Projects
 
--  **CTFZone Campus Ambassador** (handle: M47H3WR34N) — Active blockchain & cryptography solver
--  **Hack The Box** — Linux Fundamentals, Web Exploitation, Forensics track
--  **TryHackMe** — Completion of security fundamentals and penetration testing labs
--  **PicoCTF & CTFROOM** — CTF competition experience and writeups
--  **Kali Linux & NetHunter** — Active penetration testing and mobile security research
+### 🛡️ Cybersecurity & Tooling
+* **[Cybersecurity Portfolio](https://github.com)**
+  * *Dynamic playground showing CTF writeups, pentest labs, and challenge modals.*
+  * `HTML/CSS/JS` · `GitHub API` · `Marked.js`
+* **[FloodGuard](https://github.com)**
+  * *AI-powered flood detection & early-warning system with IoT real-time alerts.*
+  * `Groq AI` · `Openweather API` · `Python` · `IoT`
+
+### 🌐 Secure Enterprise & Full-Stack Web
+* **[Rechiro](https://github.com)**
+  * *Fisher-to-buyer marketplace platform showcased at Huawei Siaya Hackathon.*
+  * `Django` · `M-Pesa API` · `PostgreSQL` · `Bootstrap`
+* **[JOOUST Postgrad Tracker](https://github.com)**
+  * *Stage-gated postgraduate submissions system built with tight RBAC logic.*
+  * `Django` · `PostgreSQL` · `Bootstrap`
+* **[KUPPET Siaya Portal](https://github.com)**
+  * *Membership management & secure communications portal with dues tracking.*
+  * `Django` · `PostgreSQL` · `HTML/CSS/JS`
+* **[Enactus JOOUST Website](https://github.com)**
+  * *Non-profit hub showcasing event countdowns, impact metrics, and digital payments.*
+  * `HTML/CSS/JS` · `Chart.js` · `M-Pesa API`
 
 ---
 
-##  GitHub Analytics
+## 📈 Activity & Security Metrics
 
+### 🕹️ Contribution Snake Game
+<!-- The Snake Action automatically outputs to the 'output' branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="GitHub Streak Snake" src="https://githubusercontent.com">
+</picture>
+
+### 📊 GitHub Analytics
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mathewrean&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Mathewrean)
+<!-- Local Action Streak Generator (No external server dependency!) -->
+<img src="https://githubusercontent.com" alt="GitHub Streak" onError="this.src='https://denvercoded.com'"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathewrean&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Mathewrean)
+<br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mathewrean&theme=tokyonight&hide_border=true)](https://github.com/Mathewrean)
+[![GitHub Stats](https://vercel.app)](https://github.com)
+[![Top Languages](https://vercel.app)](https://github.com)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Mathewrean&theme=tokyonight&no-frame=true&column=4)](https://github.com/Mathewrean)
+<br>
+
+[![Trophies](https://vercel.app)](https://github.com)
 
 </div>
 
-> **Note:** Stats cards are cached by external services. A fresh commit may take a few hours to reflect. If cards don't load, check your internet connection or try refreshing after clearing cache.
+---
+
+## 🧪 CTF & Security Lab Activity
+
+- 🪐 **CTFZone Campus Ambassador** (handle: M47H3WR34N) — Active blockchain & cryptography solver
+- 🏴 **Hack The Box** — Linux Fundamentals, Web Exploitation, Forensics track
+- 🛡️ **TryHackMe** — Completion of security fundamentals and penetration testing labs
+- 💻 **Kali Linux & NetHunter** — Active penetration testing and mobile security research
 
 ---
 
@@ -86,24 +117,24 @@ Cybersecurity & Digital Forensics student at JOOUST focused on digital security 
 `Python` `C` `Bash` `JavaScript` `SQL` `Solidity`
 
 **Web & Backend**
-`Django` `HTML` `CSS` `Tailwind CSS` `Bootstrap` `REST APIs` `Chart.js`
+`Laravel` `Django` `HTML` `CSS` `Tailwind CSS` `Bootstrap` `REST APIs` `Chart.js`
 
 **Databases & IoT**
 `PostgreSQL` `MySQL / MariaDB` `Raspberry Pi` `Arduino`
 
 **DevOps & Platforms**
-`Git` `GitHub Actions` `Docker` `Linux (Debian/Kali)` `GitHub Pages` `OpenVPN` `M-Pesa API`
+`Next.js` `Git` `GitHub Actions` `Docker` `Linux (Debian/Kali)` `GitHub Pages` `OpenVPN` `M-Pesa API`
 
 ---
 
 ## 🤝 Connect & Learn
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-cybersecurity.portfolio-0d1117?style=flat-square&logo=github)](https://mathewrean.github.io/portfolio)
-[![Email](https://img.shields.io/badge/Email-mathewrean%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mathewrean@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathewrean-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathewrean)
-[![Twitter](https://img.shields.io/badge/Twitter-%40r__icon__megaddog-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/r_icon_megaddog)
-[![HTB](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/Mathewrean)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-M47h3wR34n-212C42?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/M47h3wR34n)
+[![Portfolio](https://shields.io)](https://mathewrean.github.io/portfolio/)
+[![Email](https://shields.io)](mailto:mathewrean@gmail.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/mathewrean)
+[![Twitter](https://shields.io)](https://x.com/mathewrean_otieno)
+[![HTB](https://shields.io)](https://hackthebox.com/m47h3wr34n)
+[![TryHackMe](https://shields.io)](https://tryhackme.com/p/M47h3wR34n)
 
 ---
 
