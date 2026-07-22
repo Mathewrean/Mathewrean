@@ -1,118 +1,117 @@
-<p align="center">
-  <a href="https://github.com/mathewrean">
-    <img src="https://komarev.com/ghpvc/?username=mathewrean&color=0a66c2&style=flat&label=Profile+Views" alt="Profile views" />
-  </a>
-</p>
-
 <div align="center">
-  <img src="https://github.com/mathewrean.png" alt="avatar" width="140" style="border-radius: 50%; border: 3px solid #0a66c2;" />
+  <img src="https://komarev.com/ghpvc/?username=mathewrean&color=0a66c2&style=flat&label=Profile+Views" alt="Profile views" />
 </div>
 
-<h1 align="center">Mathewrean</h1>
-
 <p align="center">
-  <strong>Cybersecurity & IT Operations Engineer</strong> · CTF Competitor & Mentor · Technical Writer
+  <img src="https://github.com/mathewrean.png" alt="Profile Photo" width="160" style="border-radius: 50%; border: 4px solid #0a66c2;" />
 </p>
 
-<p align="center">
-  <em>"Break it to understand it. Build it to secure it."</em>
-</p>
+<h1 align="center">Mathew Otieno</h1>
+<h3 align="center">Cybersecurity & IT Operations Engineer | CTF Competitor & Mentor</h3>
 
 <p align="center">
-  📍 Kenya &nbsp;|&nbsp; 🎓 JOOUST — Computer Security & Digital Forensics &nbsp;|&nbsp; 🚀 CTFZone Campus Ambassador
+  <strong>JOOUST • Computer Security & Digital Forensics</strong><br>
+  📍 Kenya • CTFZone Campus Ambassador
 </p>
+
+<blockquote align="center">
+  "Break it to understand it. Build it to secure it."
+</blockquote>
 
 ---
 
-### 👋 Hi there!
+### About Me
 
-I'm a **Cybersecurity & Digital Forensics** student passionate about defensive security, vulnerability hunting, and real-world CTF challenges. I bridge technical expertise with leadership through mentoring and student representation.
+Cybersecurity and Digital Forensics student with a strong focus on defensive security, vulnerability assessment, and practical incident response. Active CTF competitor and mentor who enjoys turning complex security challenges into learning opportunities while developing leadership skills through student representation.
 
-**Currently sharpening:**  
-**Penetration Testing** · **Web Exploitation** · **Cryptography** · **Digital Forensics** · **Malware Analysis** · **SIEM** · **Cloud Security** · **Python & Bash Scripting**
+**Areas of Focus:**
+- Penetration Testing & Web Security
+- Digital Forensics & Malware Analysis
+- Cryptography & Reverse Engineering
+- SIEM, Network Defense & Cloud Security
+- Secure Full-Stack Development
 
-**Open to collaboration on:** Cybersecurity Research, Penetration Testing, Security Tooling, CTF Mentorship, and Secure Full-Stack Development.
+**Open to:** Research collaborations, penetration testing projects, CTF mentoring, and security engineering roles.
 
 ---
 
-## 🏆 Certifications & Recognition
+### Certifications
 
-- **Cisco Ethical Hacker** (Cyber Shujaa Program)
-- **OPSWAT Security Associate** (File, Network, Email, Fundamentals)
+- **Cisco Ethical Hacker** – Cyber Shujaa Program & Cisco Networking Academy
+- **OPSWAT Security Associate** – File, Network, Email & Fundamentals
 - **Microsoft Security, Compliance & Identity Fundamentals**
-- **Data Protection Specialist** (Strathmore University CIPIT)
-- **Cybergame 2025 Participant** (Ministry of ICT & Digital Economy)
+- **Data Protection Specialist** – Strathmore University CIPIT
+- **Cybergame 2025 Participant** – Ministry of ICT & Digital Economy
 
 ---
 
-## ⚡ Featured Projects
+### Featured Projects
 
-### 🛡️ Cybersecurity & Tooling
-- **[Cybersecurity Portfolio](https://github.com/mathewrean/portfolio)** — Interactive showcase of CTF writeups, pentest labs, and challenges (`HTML/CSS/JS` + GitHub API)
-- **[FloodGuard](https://github.com/mathewrean/floodguard)** — AI-powered flood detection with IoT alerts (`Python` + Groq AI + OpenWeather)
+**Cybersecurity Portfolio**  
+Interactive platform showcasing CTF writeups, penetration testing labs, and challenge breakdowns. Built with HTML/CSS/JS, GitHub API, and Marked.js.
 
-### 🌐 Secure Full-Stack Applications
-- **[Rechiro](https://github.com/mathewrean/rechiro)** — Fisher-to-buyer marketplace (Huawei Hackathon) (`Django` + M-Pesa + PostgreSQL)
-- **[JOOUST Postgrad Tracker](https://github.com/mathewrean/...) ** — RBAC-based postgraduate submission system (`Django`)
-- **[KUPPET Siaya Portal](https://github.com/mathewrean/...) ** — Secure membership & dues management
-- **[Enactus JOOUST Website](https://github.com/mathewrean/...) ** — Non-profit platform with payments & analytics
+**FloodGuard**  
+AI-powered real-time flood detection and early warning system using IoT sensors. (Python, Groq AI, OpenWeather API)
 
-*(Replace `...` with actual repo links)*
+**Rechiro Marketplace**  
+Secure fisher-to-buyer platform developed for Huawei Siaya Hackathon. (Django, PostgreSQL, M-Pesa API, Bootstrap)
+
+**JOOUST Postgrad Tracker**  
+Role-based access control system for managing postgraduate research submissions.
+
+**KUPPET Siaya Portal** & **Enactus JOOUST Website** – Additional secure web applications with payment integration and analytics.
 
 ---
 
-## 📈 GitHub Activity
+### GitHub Analytics
 
 <div align="center">
 
-### Contribution Snake
-![GitHub Snake](https://raw.githubusercontent.com/mathewrean/mathewrean/output/github-contribution-grid-snake.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathewrean&show_icons=true&theme=slate&hide_border=true&count_private=true)
 
-### Stats Cards
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathewrean&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathewrean&layout=compact&theme=slate&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathewrean&layout=compact&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mathewrean&theme=tokyonight&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mathewrean&theme=slate&no-frame=true)
 
 </div>
 
----
+### Contribution Activity
 
-## 🧪 CTF & Security Labs
-
-- **CTFZone Campus Ambassador** (M47H3WR34N) — Blockchain & Cryptography focus
-- **Hack The Box** — Linux, Web Exploitation, Forensics
-- **TryHackMe** — Penetration Testing & Security Fundamentals
-- **Kali Linux / NetHunter** — Active pentesting and mobile research
+![Contribution Snake](https://raw.githubusercontent.com/mathewrean/mathewrean/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🛠️ Tech Stack
+### Security Lab Activity
+
+- **CTFZone Campus Ambassador** (Handle: M47H3WR34N)
+- **Hack The Box** – Linux, Web Exploitation, Forensics
+- **TryHackMe** – Penetration Testing & Security Fundamentals
+- **Kali Linux & NetHunter** – Mobile security and field operations
+
+---
+
+### Technical Skills
 
 **Security Tools**  
-`Kali Linux` `Nmap` `Metasploit` `Burp Suite` `Wireshark` `SQLmap` `Volatility` `Splunk` `Suricata`
+Kali Linux • Nmap • Metasploit • Burp Suite • Wireshark • SQLmap • Volatility • Splunk • Suricata
 
-**Languages**  
-`Python` `Bash` `JavaScript` `SQL` `Solidity` `C`
+**Programming & Scripting**  
+Python • Bash • JavaScript • SQL • Solidity
 
-**Web & Backend**  
-`Laravel` `Django` `Next.js` `Tailwind` `Bootstrap` `REST APIs`
-
-**Infrastructure**  
-`PostgreSQL` `Docker` `GitHub Actions` `Linux` `Raspberry Pi` `M-Pesa API`
+**Frameworks & Platforms**  
+Django • Laravel • Next.js • Docker • PostgreSQL • GitHub Actions • Linux • M-Pesa API
 
 ---
 
-## 🤝 Let's Connect
+### Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://mathewrean.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mathewrean)
-[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/mathewrean_otieno)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:mathewrean@gmail.com)
+- **Portfolio**: [mathewrean.github.io/portfolio](https://mathewrean.github.io/portfolio/)
+- **LinkedIn**: [linkedin.com/in/mathewrean](https://www.linkedin.com/in/mathewrean)
+- **Twitter/X**: [@mathewrean_otieno](https://x.com/mathewrean_otieno)
+- **Email**: mathewrean@gmail.com
 
 ---
 
-**Last updated:** July 2026
+*Last updated: July 2026*
 
-*Building secure systems one challenge at a time.*
+---
