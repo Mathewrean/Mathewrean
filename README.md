@@ -1,145 +1,118 @@
 <p align="center">
-  <img src="https://komarev.com" alt="Profile views" />
+  <a href="https://github.com/mathewrean">
+    <img src="https://komarev.com/ghpvc/?username=mathewrean&color=0a66c2&style=flat&label=Profile+Views" alt="Profile views" />
+  </a>
 </p>
 
-<img align="right" alt="avatar" width="140" src="https://github.com" style="border-radius: 50%; border: 2px solid #565f89;" />
+<div align="center">
+  <img src="https://github.com/mathewrean.png" alt="avatar" width="140" style="border-radius: 50%; border: 3px solid #0a66c2;" />
+</div>
 
-# Mathewrean
+<h1 align="center">Mathewrean</h1>
 
-### Cybersecurity & IT Operations Engineer · CTF Competitor & Mentor · Technical Writer
+<p align="center">
+  <strong>Cybersecurity & IT Operations Engineer</strong> · CTF Competitor & Mentor · Technical Writer
+</p>
 
-> *"Break it to understand it. Build it to secure it."*
+<p align="center">
+  <em>"Break it to understand it. Build it to secure it."</em>
+</p>
 
-📍 Kenya &nbsp;|&nbsp; 🎓 JOOUST — Computer Security & Digital Forensics &nbsp;|&nbsp; 🚀 CTFZone Campus Ambassador
-
-# Hi there! 👋
-
-Currently Learning: 
-[![Laravel](https://shields.io)](https://laravel.com)
-[![Next.js](https://shields.io)](https://nextjs.org)
-
-*Building powerful backends with Laravel and dynamic frontends with Next.js.*
+<p align="center">
+  📍 Kenya &nbsp;|&nbsp; 🎓 JOOUST — Computer Security & Digital Forensics &nbsp;|&nbsp; 🚀 CTFZone Campus Ambassador
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+### 👋 Hi there!
 
-Cybersecurity & Digital Forensics student at JOOUST focused on digital security operations, vulnerability hunting, and defensive security playbooks. Active CTF competitor and mentor, treating each challenge as a real-world learning opportunity. Passionate about bridging technical security expertise with leadership through student representation.
+I'm a **Cybersecurity & Digital Forensics** student passionate about defensive security, vulnerability hunting, and real-world CTF challenges. I bridge technical expertise with leadership through mentoring and student representation.
 
-**Currently sharpening:**
-`Penetration Testing` · `Web Exploitation` · `Cryptography` · `Digital Forensics` · `Reverse Engineering` · `Malware Analysis` · `SIEM & Network Security` · `Bash & Python Scripting` · `Cloud Security`
+**Currently sharpening:**  
+**Penetration Testing** · **Web Exploitation** · **Cryptography** · **Digital Forensics** · **Malware Analysis** · **SIEM** · **Cloud Security** · **Python & Bash Scripting**
 
-**Open to collaboration in:** Cybersecurity Research · Penetration Testing · Security Engineering · CTF Mentorship · Technical Documentation · Full-Stack Secure Development
+**Open to collaboration on:** Cybersecurity Research, Penetration Testing, Security Tooling, CTF Mentorship, and Secure Full-Stack Development.
 
 ---
 
 ## 🏆 Certifications & Recognition
 
-**Security & Compliance**
-- 🏆 Cisco Ethical Hacker (Cyber Shujaa Program & Cisco Networking Academy)
-- 🔐 OPSWAT Security Associate (File, Network, Email, & Fundamentals)
-- 📋 Security, Compliance & Identity Fundamentals (Microsoft Student Ambassadors)
-- 🛡️ Data Protection Specialist (Strathmore University CIPIT)
-- 🎖️ Cybergame 2025 Participant (Ministry of ICT & Digital Economy)
+- **Cisco Ethical Hacker** (Cyber Shujaa Program)
+- **OPSWAT Security Associate** (File, Network, Email, Fundamentals)
+- **Microsoft Security, Compliance & Identity Fundamentals**
+- **Data Protection Specialist** (Strathmore University CIPIT)
+- **Cybergame 2025 Participant** (Ministry of ICT & Digital Economy)
 
 ---
 
 ## ⚡ Featured Projects
 
 ### 🛡️ Cybersecurity & Tooling
-* **[Cybersecurity Portfolio](https://github.com)**
-  * *Dynamic playground showing CTF writeups, pentest labs, and challenge modals.*
-  * `HTML/CSS/JS` · `GitHub API` · `Marked.js`
-* **[FloodGuard](https://github.com)**
-  * *AI-powered flood detection & early-warning system with IoT real-time alerts.*
-  * `Groq AI` · `Openweather API` · `Python` · `IoT`
+- **[Cybersecurity Portfolio](https://github.com/mathewrean/portfolio)** — Interactive showcase of CTF writeups, pentest labs, and challenges (`HTML/CSS/JS` + GitHub API)
+- **[FloodGuard](https://github.com/mathewrean/floodguard)** — AI-powered flood detection with IoT alerts (`Python` + Groq AI + OpenWeather)
 
-### 🌐 Secure Enterprise & Full-Stack Web
-* **[Rechiro](https://github.com)**
-  * *Fisher-to-buyer marketplace platform showcased at Huawei Siaya Hackathon.*
-  * `Django` · `M-Pesa API` · `PostgreSQL` · `Bootstrap`
-* **[JOOUST Postgrad Tracker](https://github.com)**
-  * *Stage-gated postgraduate submissions system built with tight RBAC logic.*
-  * `Django` · `PostgreSQL` · `Bootstrap`
-* **[KUPPET Siaya Portal](https://github.com)**
-  * *Membership management & secure communications portal with dues tracking.*
-  * `Django` · `PostgreSQL` · `HTML/CSS/JS`
-* **[Enactus JOOUST Website](https://github.com)**
-  * *Non-profit hub showcasing event countdowns, impact metrics, and digital payments.*
-  * `HTML/CSS/JS` · `Chart.js` · `M-Pesa API`
+### 🌐 Secure Full-Stack Applications
+- **[Rechiro](https://github.com/mathewrean/rechiro)** — Fisher-to-buyer marketplace (Huawei Hackathon) (`Django` + M-Pesa + PostgreSQL)
+- **[JOOUST Postgrad Tracker](https://github.com/mathewrean/...) ** — RBAC-based postgraduate submission system (`Django`)
+- **[KUPPET Siaya Portal](https://github.com/mathewrean/...) ** — Secure membership & dues management
+- **[Enactus JOOUST Website](https://github.com/mathewrean/...) ** — Non-profit platform with payments & analytics
+
+*(Replace `...` with actual repo links)*
 
 ---
 
-## 📈 Activity & Security Metrics
+## 📈 GitHub Activity
 
-### 🕹️ Contribution Snake Game
-<!-- The Snake Action automatically outputs to the 'output' branch -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Streak Snake" src="https://githubusercontent.com">
-</picture>
-
-### 📊 GitHub Analytics
 <div align="center">
 
-<!-- Local Action Streak Generator (No external server dependency!) -->
-<img src="https://githubusercontent.com" alt="GitHub Streak" onError="this.src='https://denvercoded.com'"/>
+### Contribution Snake
+![GitHub Snake](https://raw.githubusercontent.com/mathewrean/mathewrean/output/github-contribution-grid-snake.svg)
 
-<br>
+### Stats Cards
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathewrean&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-[![GitHub Stats](https://vercel.app)](https://github.com)
-[![Top Languages](https://vercel.app)](https://github.com)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathewrean&layout=compact&theme=tokyonight&hide_border=true)
 
-<br>
-
-[![Trophies](https://vercel.app)](https://github.com)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mathewrean&theme=tokyonight&no-frame=true)
 
 </div>
 
 ---
 
-## 🧪 CTF & Security Lab Activity
+## 🧪 CTF & Security Labs
 
-- 🪐 **CTFZone Campus Ambassador** (handle: M47H3WR34N) — Active blockchain & cryptography solver
-- 🏴 **Hack The Box** — Linux Fundamentals, Web Exploitation, Forensics track
-- 🛡️ **TryHackMe** — Completion of security fundamentals and penetration testing labs
-- 💻 **Kali Linux & NetHunter** — Active penetration testing and mobile security research
+- **CTFZone Campus Ambassador** (M47H3WR34N) — Blockchain & Cryptography focus
+- **Hack The Box** — Linux, Web Exploitation, Forensics
+- **TryHackMe** — Penetration Testing & Security Fundamentals
+- **Kali Linux / NetHunter** — Active pentesting and mobile research
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Security & Forensics**
-`Kali Linux` `Kali NetHunter` `Nmap` `Metasploit` `SQLmap` `Burp Suite` `Volatility3` `Wireshark` `Splunk` `Suricata` `IDA Pro`
+**Security Tools**  
+`Kali Linux` `Nmap` `Metasploit` `Burp Suite` `Wireshark` `SQLmap` `Volatility` `Splunk` `Suricata`
 
-**Languages**
-`Python` `C` `Bash` `JavaScript` `SQL` `Solidity`
+**Languages**  
+`Python` `Bash` `JavaScript` `SQL` `Solidity` `C`
 
-**Web & Backend**
-`Laravel` `Django` `HTML` `CSS` `Tailwind CSS` `Bootstrap` `REST APIs` `Chart.js`
+**Web & Backend**  
+`Laravel` `Django` `Next.js` `Tailwind` `Bootstrap` `REST APIs`
 
-**Databases & IoT**
-`PostgreSQL` `MySQL / MariaDB` `Raspberry Pi` `Arduino`
-
-**DevOps & Platforms**
-`Next.js` `Git` `GitHub Actions` `Docker` `Linux (Debian/Kali)` `GitHub Pages` `OpenVPN` `M-Pesa API`
+**Infrastructure**  
+`PostgreSQL` `Docker` `GitHub Actions` `Linux` `Raspberry Pi` `M-Pesa API`
 
 ---
 
-## 🤝 Connect & Learn
+## 🤝 Let's Connect
 
-[![Portfolio](https://shields.io)](https://mathewrean.github.io/portfolio/)
-[![Email](https://shields.io)](mailto:mathewrean@gmail.com)
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/mathewrean)
-[![Twitter](https://shields.io)](https://x.com/mathewrean_otieno)
-[![HTB](https://shields.io)](https://hackthebox.com/m47h3wr34n)
-[![TryHackMe](https://shields.io)](https://tryhackme.com/p/M47h3wR34n)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://mathewrean.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mathewrean)
+[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/mathewrean_otieno)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:mathewrean@gmail.com)
 
 ---
 
-### 📊 My Mission
+**Last updated:** July 2026
 
-I believe in **learning through hands-on security challenges**, **mentoring the next generation of defenders**, and **building secure systems from the ground up**. Every CTF writeup, pentest report, and security research contribution fuels my growth as a cybersecurity engineer.
-
-*Last updated: July 2026*
+*Building secure systems one challenge at a time.*
